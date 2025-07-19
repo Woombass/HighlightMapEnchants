@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HighlightMapEnchants")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2b8a948043b3541526358c662304a20bd6a39f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b5a73ab7cb2120b75a180dfb4b3aa5336e8284b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HighlightMapEnchants")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HighlightMapEnchants")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

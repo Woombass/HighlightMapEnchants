@@ -10,6 +10,14 @@
     <EmbedAllSources>true</EmbedAllSources>
     <!--Don't bother setting anything to do with the output path, HUD will do it for you if you put the source code inside Plugins/Source-->
   </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Assets\reroll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\reroll.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
 
   <ItemGroup>
     <!--Rather than replacing this with absolute or relative paths, you should create an environment variable for wherever your HUD folder is-->
@@ -20,6 +28,9 @@
     <Reference Include="GameOffsets">
       <HintPath>$(exapiPackage)\GameOffsets.dll</HintPath>
       <Private>False</Private>
+    </Reference>
+    <Reference Include="InputHumanizerLib">
+      <HintPath>..\..\..\InputHumanizerLib.dll</HintPath>
     </Reference>
   </ItemGroup>
 

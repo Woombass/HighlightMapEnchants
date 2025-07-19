@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mDpmllcOp88=",
+  "dgSpecHash": "ewTl/6NFwQM=",
   "success": true,
-  "projectFilePath": "G:\\GameHelper-Release-v5.1.6\\ExileApi-Compiled-3.24.3.1\\ExileApi-Compiled-3.26.0.0.0\\Plugins\\Source\\HighlightMapEnchants\\HighlightMapEnchants.csproj",
+  "projectFilePath": "G:\\ExileApi-Compiled-3.26.0.0.5\\Plugins\\Source\\HighlightMapEnchants\\HighlightMapEnchants.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DanilaVakulevich\\.nuget\\packages\\imgui.net\\1.90.0.1\\imgui.net.1.90.0.1.nupkg.sha512",
     "C:\\Users\\DanilaVakulevich\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

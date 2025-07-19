@@ -7287,11 +7287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GameHelper-Release-v5.1.6\\ExileApi-Compiled-3.24.3.1\\ExileApi-Compiled-3.26.0.0.0\\Plugins\\Source\\HighlightMapEnchants\\HighlightMapEnchants.csproj",
+      "projectUniqueName": "G:\\ExileApi-Compiled-3.26.0.0.5\\Plugins\\Source\\HighlightMapEnchants\\HighlightMapEnchants.csproj",
       "projectName": "HighlightMapEnchants",
-      "projectPath": "G:\\GameHelper-Release-v5.1.6\\ExileApi-Compiled-3.24.3.1\\ExileApi-Compiled-3.26.0.0.0\\Plugins\\Source\\HighlightMapEnchants\\HighlightMapEnchants.csproj",
+      "projectPath": "G:\\ExileApi-Compiled-3.26.0.0.5\\Plugins\\Source\\HighlightMapEnchants\\HighlightMapEnchants.csproj",
       "packagesPath": "C:\\Users\\DanilaVakulevich\\.nuget\\packages\\",
-      "outputPath": "G:\\GameHelper-Release-v5.1.6\\ExileApi-Compiled-3.24.3.1\\ExileApi-Compiled-3.26.0.0.0\\Plugins\\Source\\HighlightMapEnchants\\obj\\",
+      "outputPath": "G:\\ExileApi-Compiled-3.26.0.0.5\\Plugins\\Source\\HighlightMapEnchants\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\VisualStudioShared\\NuGetPackages"
